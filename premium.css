@@ -1,0 +1,64 @@
+header{
+	padding: 20px;
+
+
+}
+h3{
+	color: white;
+	background-color: black;
+	padding: 24px;
+	text-align: center;
+	margin: 0px;
+	font-size: 18px;
+
+}
+h4{
+	color: black;
+	background-color: #eeeeee;
+	padding: 24px;
+	text-align: center;
+	margin: 0px;
+
+}
+p{
+	padding: 18px;
+	border: 1px solid #eeeeee;
+	text-align: center;
+	margin: -1px;
+}
+content{
+	color: #eeeeee;
+	padding: 10px;
+	text-align: center;
+}
+button{
+	color: white;
+	background-color:#53b050;
+	padding: 12px;
+	text-align: center;
+	border: none;
+	margin-left:89px;
+	width: 100px;
+	margin-top: 11px;
+	
+	
+}
+section{
+    border:2px solid #eeeeee;
+    width: 277px;
+    display: inline-block;
+    margin: 5px;
+}
+body{
+	margin-left: 252px;
+	font-family: arial;
+}
+div{
+	color: white;
+	background: #eeeeee;
+	height: 59px;
+
+}
+.pro{
+	background-color:#53b050; 
+}
